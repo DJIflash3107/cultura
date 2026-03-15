@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: ae06f990e21816944a406508384e43a3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flowers
+    second: {fileID: 2100000, guid: ed89becda7d851e409ce230ad89ef231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 1b47fe1610c1689418f637df6c83c695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NormalTree_Bark
+    second: {fileID: 2100000, guid: fcff3a72d7f5ebb439d5f6ae1273bc97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NormalTree_Leaves
+    second: {fileID: 2100000, guid: 9a29166b133032f4fa05fb73ee35e884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalmTree_Leaves
+    second: {fileID: 2100000, guid: 084f5b7678912d94092700835762bcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalmTree_Trunk
+    second: {fileID: 2100000, guid: 18575b621702b554fac9fa99af64d9a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: 881910855bcc7784d9a00eeb191272f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Borobudur 1
+    second: {fileID: 2100000, guid: 630823907ed51014cb2cbca977de81fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Borobudur 2
+    second: {fileID: 2100000, guid: 74465d589a30b9148917150534134fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Borobudur 3
+    second: {fileID: 2100000, guid: 3eb3071cd98edb647aadb135e4682c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Borobudur 4
+    second: {fileID: 2100000, guid: 2ea1403474843104293e9a76e083c511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Borobudur 5
+    second: {fileID: 2100000, guid: f942a0bbdf89807438154db4b0adf020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Lawang Sewu 1
+    second: {fileID: 2100000, guid: 266d7e07b91e39a46871e23878153a90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Lawang Sewu 2
+    second: {fileID: 2100000, guid: 9b37b558f5faa0b4cbb4ac942eb956fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Lawang Sewu 3
+    second: {fileID: 2100000, guid: 38378c0d60d0bab4296e159d8109531e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Lawang Sewu 4
+    second: {fileID: 2100000, guid: ee93da8bc19deef48b96c22cc52d6a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Lawang Sewu 5
+    second: {fileID: 2100000, guid: ccbb657ebd8456240964676fe9bccee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Prambanan 1
+    second: {fileID: 2100000, guid: 5437633a13fb4d645a774bff89597ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Prambanan 2
+    second: {fileID: 2100000, guid: 53aac176f3bb1574892f18844129e5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Prambanan 3
+    second: {fileID: 2100000, guid: 1636436f95b730d44827ceb5b49737ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Prambanan 4
+    second: {fileID: 2100000, guid: 462b833f9925e9f488a160ad8fc18edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat Prambanan 5
+    second: {fileID: 2100000, guid: 1770a152b8719b34f80617cfc8d7a8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat monas_1
+    second: {fileID: 2100000, guid: 2160fd7eb69a68545bac5b133bbdf49b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat monas_2
+    second: {fileID: 2100000, guid: 2118c1b22e62c124e851f6b1c2c16eb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat monas_3
+    second: {fileID: 2100000, guid: 1f01ba8315aae2745abca346f8e5dae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat monas_4
+    second: {fileID: 2100000, guid: cff85b883a4f4a94cb10ed432725fa21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat monas_5
+    second: {fileID: 2100000, guid: 55c1907946f16c84c8617bb6c6d00562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat pura_1
+    second: {fileID: 2100000, guid: 59526d1b72db3c2428bea2485730b41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat pura_2
+    second: {fileID: 2100000, guid: c6df443d76ba4c24ba3178b9a34f56df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat pura_3
+    second: {fileID: 2100000, guid: ac6a3979b9e1d7648ab1f4d8d0058f33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat pura_4
+    second: {fileID: 2100000, guid: da8017cf87abe574484dbf4625d3f3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat pura_5
+    second: {fileID: 2100000, guid: d3ecd7d6e4ff7b6429374fbff2f98851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_island
+    second: {fileID: 2100000, guid: cdcf32ce77a051d40ad2a09a4e9a645d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ocean
+    second: {fileID: 2100000, guid: 0f1a18992f90a4341b28263121d78dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_transparent
+    second: {fileID: 2100000, guid: a35a2b097f469b14f8210654d4e2a2ce, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
