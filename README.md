@@ -39,9 +39,11 @@ Cultura is a Virtual 3D Assistant framework powered by AI, with the Minangkabau 
 - Microphone for voice input
 
 **Steps**
-1. Download or clone this repository
-2. Run `Cultura.exe` directly — no installation required
-3. Allow microphone access when prompted
+1. Open the Releases page: [v0.1.0](https://github.com/DJIflash3107/cultura/releases/tag/v0.1.0)
+2. Download build file directly: [Cultura.zip](https://github.com/DJIflash3107/cultura/releases/download/v0.1.0/Cultura.zip)
+3. Extract `Cultura.zip` to any folder
+4. Run `Cultura.exe` directly — no installation required
+5. Allow microphone access when prompted
 
 ## How to Play
 
